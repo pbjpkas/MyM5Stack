@@ -3,7 +3,7 @@ MyM5Stack No.5 is a simple smartwatch.
 
 function:
 
-- Analog Watch with real-time clock (PCF8563)
+- Analog Watch (based on TFT_Clock sample code) with real-time clock (PCF8563)
 - Display Temperature, humidity (DHT12)
 - Display Temperature, humidity, atmospheric pressure (BME280)
 - Display Battery Voltage
