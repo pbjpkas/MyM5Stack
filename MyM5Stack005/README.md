@@ -12,4 +12,4 @@ function:
 
 Production Articles:
 
-[M5Stack Advent Calendar 2018(Qiita)](https://qiita.com/advent-calendar/2018/m5stack) (The 13th)
+[M5Stackでスマートウォッチ](https://qiita.com/pbjpkas/items/7098cab01dcdc03cc641)
